@@ -15,6 +15,9 @@ Code has been written using Anaconda-Jupyter Notebook. Database has been created
 
 The future version may have more visualized outcomes using different libraries in python.
 
+# Assumption
+I have  not considered penalty shootouts results. 
+
 # Information about variables: 
 
 | Variable | Description |
